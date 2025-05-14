@@ -1,0 +1,7650 @@
+{
+  "name": "new-dataset",
+  "description": "New Dataset",
+  "images_dir": ".",
+  "labels_dir": "labels",
+  "objects": {
+    "329637-8": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "329637-8.nii"
+        }
+      },
+      "labels": {}
+    },
+    "390116-9": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "390116-9.nii"
+        }
+      },
+      "labels": {}
+    },
+    "404663-8": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "404663-8.nii"
+        }
+      },
+      "labels": {}
+    },
+    "406320-9": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "406320-9.nii"
+        }
+      },
+      "labels": {}
+    },
+    "412857-8": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "412857-8.nii"
+        }
+      },
+      "labels": {}
+    },
+    "412865-8": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "412865-8.nii"
+        }
+      },
+      "labels": {}
+    },
+    "415102-9": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "415102-9.nii"
+        }
+      },
+      "labels": {}
+    },
+    "425707-8": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "425707-8.nii"
+        }
+      },
+      "labels": {}
+    },
+    "425713-8": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "425713-8.nii"
+        }
+      },
+      "labels": {}
+    },
+    "437474-8": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "437474-8.nii"
+        }
+      },
+      "labels": {}
+    },
+    "444503-7": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "444503-7.nii"
+        }
+      },
+      "labels": {}
+    },
+    "451760-9": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "451760-9.nii"
+        }
+      },
+      "labels": {}
+    },
+    "454319-8": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "454319-8.nii"
+        }
+      },
+      "labels": {}
+    },
+    "455741-8": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "455741-8.nii"
+        }
+      },
+      "labels": {}
+    },
+    "456691-8": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "456691-8.nii"
+        }
+      },
+      "labels": {}
+    },
+    "457181-8": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "457181-8.nii"
+        }
+      },
+      "labels": {}
+    },
+    "457491-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "457491-6.nii"
+        }
+      },
+      "labels": {}
+    },
+    "457511-7": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "457511-7.nii"
+        }
+      },
+      "labels": {}
+    },
+    "457519-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "457519-6.nii"
+        }
+      },
+      "labels": {}
+    },
+    "457531-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "457531-6.nii"
+        }
+      },
+      "labels": {}
+    },
+    "457572-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "457572-6.nii"
+        }
+      },
+      "labels": {}
+    },
+    "459462-10": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "459462-10.nii"
+        }
+      },
+      "labels": {}
+    },
+    "459569-9": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "459569-9.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747214384,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "spleen",
+                "idx": 2
+              },
+              {
+                "name": "right kidney",
+                "idx": 3
+              },
+              {
+                "name": "left kidney",
+                "idx": 4
+              },
+              {
+                "name": "liver",
+                "idx": 5
+              },
+              {
+                "name": "stomach",
+                "idx": 6
+              },
+              {
+                "name": "aorta",
+                "idx": 7
+              },
+              {
+                "name": "inferior vena cava",
+                "idx": 8
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747214621,
+            "name": "459569-9.nii.gz"
+          }
+        }
+      }
+    },
+    "462792-9": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "462792-9.nii"
+        }
+      },
+      "labels": {}
+    },
+    "462862-9": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "462862-9.nii"
+        }
+      },
+      "labels": {}
+    },
+    "463541-8": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "463541-8.nii"
+        }
+      },
+      "labels": {}
+    },
+    "463773-8": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "463773-8.nii"
+        }
+      },
+      "labels": {}
+    },
+    "465953-9": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "465953-9.nii"
+        }
+      },
+      "labels": {}
+    },
+    "466435-8": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "466435-8.nii"
+        }
+      },
+      "labels": {}
+    },
+    "470658-8": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "470658-8.nii"
+        }
+      },
+      "labels": {}
+    },
+    "471659-9": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "471659-9.nii"
+        }
+      },
+      "labels": {}
+    },
+    "471699-8": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "471699-8.nii"
+        }
+      },
+      "labels": {}
+    },
+    "472130-8": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "472130-8.nii"
+        }
+      },
+      "labels": {}
+    },
+    "472842-8": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "472842-8.nii"
+        }
+      },
+      "labels": {}
+    },
+    "473438-7": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "473438-7.nii"
+        }
+      },
+      "labels": {}
+    },
+    "474967-7": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "474967-7.nii"
+        }
+      },
+      "labels": {}
+    },
+    "475047-7": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "475047-7.nii"
+        }
+      },
+      "labels": {}
+    },
+    "476260-7": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "476260-7.nii"
+        }
+      },
+      "labels": {}
+    },
+    "476877-7": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "476877-7.nii"
+        }
+      },
+      "labels": {}
+    },
+    "477303-7": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "477303-7.nii"
+        }
+      },
+      "labels": {}
+    },
+    "477330-7": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "477330-7.nii"
+        }
+      },
+      "labels": {}
+    },
+    "477376-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "477376-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "477390-8": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "477390-8.nii"
+        }
+      },
+      "labels": {}
+    },
+    "479150-7": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "479150-7.nii"
+        }
+      },
+      "labels": {}
+    },
+    "479235-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "479235-6.nii"
+        }
+      },
+      "labels": {}
+    },
+    "479684-7": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "479684-7.nii"
+        }
+      },
+      "labels": {}
+    },
+    "479697-8": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "479697-8.nii"
+        }
+      },
+      "labels": {}
+    },
+    "480133-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "480133-6.nii"
+        }
+      },
+      "labels": {}
+    },
+    "480892-7": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "480892-7.nii"
+        }
+      },
+      "labels": {}
+    },
+    "481311-8": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "481311-8.nii"
+        }
+      },
+      "labels": {}
+    },
+    "481331-7": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "481331-7.nii"
+        }
+      },
+      "labels": {}
+    },
+    "481371-7": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "481371-7.nii"
+        }
+      },
+      "labels": {}
+    },
+    "481412-7": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "481412-7.nii"
+        }
+      },
+      "labels": {}
+    },
+    "482432-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "482432-6.nii"
+        }
+      },
+      "labels": {}
+    },
+    "482840-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "482840-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "482870-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "482870-6.nii"
+        }
+      },
+      "labels": {}
+    },
+    "482876-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "482876-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "482893-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "482893-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "482899-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "482899-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "483367-7": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "483367-7.nii"
+        }
+      },
+      "labels": {}
+    },
+    "484779-7": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "484779-7.nii"
+        }
+      },
+      "labels": {}
+    },
+    "484808-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "484808-6.nii"
+        }
+      },
+      "labels": {}
+    },
+    "485381-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "485381-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "485381-8": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "485381-8.nii"
+        }
+      },
+      "labels": {}
+    },
+    "485761-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "485761-6.nii"
+        }
+      },
+      "labels": {}
+    },
+    "485830-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "485830-6.nii"
+        }
+      },
+      "labels": {}
+    },
+    "485841-7": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "485841-7.nii"
+        }
+      },
+      "labels": {}
+    },
+    "487493-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "487493-6.nii"
+        }
+      },
+      "labels": {}
+    },
+    "487594-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "487594-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "488561-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "488561-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "488592-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "488592-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "490907-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "490907-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "490928-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "490928-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "490937-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "490937-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "491177-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "491177-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "491387-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "491387-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "491596-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "491596-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "492730-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "492730-6.nii"
+        }
+      },
+      "labels": {}
+    },
+    "492792-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "492792-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "494291-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "494291-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "494338-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "494338-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "494350-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "494350-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "494353-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "494353-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "496489-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "496489-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "496580-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "496580-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "496621-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "496621-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "497304-8": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "497304-8.nii"
+        }
+      },
+      "labels": {}
+    },
+    "497747-8": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "497747-8.nii"
+        }
+      },
+      "labels": {}
+    },
+    "497764-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "497764-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "498724-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "498724-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "500142-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "500142-6.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747214726,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "spleen",
+                "idx": 2
+              },
+              {
+                "name": "right kidney",
+                "idx": 3
+              },
+              {
+                "name": "left kidney",
+                "idx": 4
+              },
+              {
+                "name": "liver",
+                "idx": 5
+              },
+              {
+                "name": "stomach",
+                "idx": 6
+              },
+              {
+                "name": "aorta",
+                "idx": 7
+              },
+              {
+                "name": "inferior vena cava",
+                "idx": 8
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747214774,
+            "name": "500142-6.nii.gz"
+          }
+        }
+      }
+    },
+    "500636-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "500636-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "500804-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "500804-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "501527-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "501527-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "502889-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "502889-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "502889-8": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "502889-8.nii"
+        }
+      },
+      "labels": {}
+    },
+    "502904-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "502904-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "502951-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "502951-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "502969-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "502969-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "504699-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "504699-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "505151-8": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "505151-8.nii"
+        }
+      },
+      "labels": {}
+    },
+    "505174-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "505174-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "505176-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "505176-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "507029-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "507029-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "507277-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "507277-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "507834-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "507834-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "509041-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "509041-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "510057-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "510057-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "510970-4": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "510970-4.nii"
+        }
+      },
+      "labels": {}
+    },
+    "511402-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "511402-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "513064-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "513064-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "513074-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "513074-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "513118-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "513118-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "513145-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "513145-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "515026-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "515026-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "515707-7": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "515707-7.nii"
+        }
+      },
+      "labels": {}
+    },
+    "515804-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "515804-6.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747217005,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {}
+    },
+    "515837-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "515837-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "515853-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "515853-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "515891-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "515891-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "515999-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "515999-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "516014-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "516014-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "517913-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "517913-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "518221-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "518221-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "518759-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "518759-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "518793-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "518793-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "519259-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "519259-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "520985-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "520985-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "521412-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "521412-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "521464-9": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "521464-9.nii"
+        }
+      },
+      "labels": {}
+    },
+    "524118-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "524118-6.nii"
+        }
+      },
+      "labels": {}
+    },
+    "524178-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "524178-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "524502-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "524502-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "528728-7": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "528728-7.nii"
+        }
+      },
+      "labels": {}
+    },
+    "528796-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "528796-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "528814-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "528814-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "528860-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "528860-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "531241-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "531241-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "531267-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "531267-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "531715-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "531715-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "532493-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "532493-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "533741-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "533741-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "533809-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "533809-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "536367-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "536367-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "538076-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "538076-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "538749-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "538749-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "540462-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "540462-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "540503-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "540503-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "540525-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "540525-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "542395-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "542395-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "542846-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "542846-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "542858-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "542858-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "544957-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "544957-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "544984-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "544984-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "545451-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "545451-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "547369-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "547369-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "547373-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "547373-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "547393-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "547393-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "547422-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "547422-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "547450-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "547450-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "547519-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "547519-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "549163-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "549163-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "549844-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "549844-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "549879-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "549879-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "549888-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "549888-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "549897-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "549897-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "549957-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "549957-6.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747214641,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "spleen",
+                "idx": 2
+              },
+              {
+                "name": "right kidney",
+                "idx": 3
+              },
+              {
+                "name": "left kidney",
+                "idx": 4
+              },
+              {
+                "name": "liver",
+                "idx": 5
+              },
+              {
+                "name": "stomach",
+                "idx": 6
+              },
+              {
+                "name": "aorta",
+                "idx": 7
+              },
+              {
+                "name": "inferior vena cava",
+                "idx": 8
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747214687,
+            "name": "549957-6.nii.gz"
+          }
+        }
+      }
+    },
+    "551570-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "551570-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "552377-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "552377-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "552839-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "552839-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "554377-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "554377-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "554495-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "554495-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "554499-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "554499-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "555003-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "555003-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "555019-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "555019-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "555031-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "555031-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "557202-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "557202-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "557229-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "557229-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "557655-7": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "557655-7.nii"
+        }
+      },
+      "labels": {}
+    },
+    "557711-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "557711-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "557719-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "557719-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "559079-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "559079-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747214693,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "spleen",
+                "idx": 2
+              },
+              {
+                "name": "right kidney",
+                "idx": 3
+              },
+              {
+                "name": "left kidney",
+                "idx": 4
+              },
+              {
+                "name": "liver",
+                "idx": 5
+              },
+              {
+                "name": "stomach",
+                "idx": 6
+              },
+              {
+                "name": "aorta",
+                "idx": 7
+              },
+              {
+                "name": "inferior vena cava",
+                "idx": 8
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747214722,
+            "name": "559079-5.nii.gz"
+          }
+        }
+      }
+    },
+    "559390-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "559390-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "560649-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "560649-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "560659-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "560659-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "560665-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "560665-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "560718-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "560718-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "561654-7": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "561654-7.nii"
+        }
+      },
+      "labels": {}
+    },
+    "561659-7": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "561659-7.nii"
+        }
+      },
+      "labels": {}
+    },
+    "561964-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "561964-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747214783,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "spleen",
+                "idx": 2
+              },
+              {
+                "name": "right kidney",
+                "idx": 3
+              },
+              {
+                "name": "left kidney",
+                "idx": 4
+              },
+              {
+                "name": "liver",
+                "idx": 5
+              },
+              {
+                "name": "stomach",
+                "idx": 6
+              },
+              {
+                "name": "aorta",
+                "idx": 7
+              },
+              {
+                "name": "inferior vena cava",
+                "idx": 8
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747214877,
+            "name": "561964-5.nii.gz"
+          }
+        }
+      }
+    },
+    "561983-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "561983-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "562893-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "562893-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "562961-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "562961-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "563359-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "563359-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "563415-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "563415-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "563422-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "563422-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "563429-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "563429-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "563432-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "563432-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "563519-10": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "563519-10.nii"
+        }
+      },
+      "labels": {}
+    },
+    "564317-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "564317-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "566015-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "566015-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "566022-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "566022-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "566069-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "566069-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "566082-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "566082-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "566089-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "566089-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "566095-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "566095-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "566236-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "566236-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "567480-8": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "567480-8.nii"
+        }
+      },
+      "labels": {}
+    },
+    "568862-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "568862-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "568871-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "568871-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "568916-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "568916-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "568937-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "568937-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "568943-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "568943-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "569264-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "569264-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "569768-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "569768-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "570373-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "570373-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "571707-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "571707-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "571778-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "571778-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "572059-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "572059-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "572093-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "572093-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "574468-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "574468-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "574851-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "574851-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "576971-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "576971-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "579840-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "579840-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "579883-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "579883-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "580017-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "580017-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "580420-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "580420-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "580449-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "580449-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "580637-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "580637-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "580637-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "580637-6.nii"
+        }
+      },
+      "labels": {}
+    },
+    "581844-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "581844-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "582678-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "582678-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "582708-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "582708-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "582721-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "582721-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "582730-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "582730-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "584099-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "584099-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "584179-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "584179-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "584196-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "584196-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "584216-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "584216-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "584216-8": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "584216-8.nii"
+        }
+      },
+      "labels": {}
+    },
+    "584216-9": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "584216-9.nii"
+        }
+      },
+      "labels": {}
+    },
+    "584916-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "584916-6.nii"
+        }
+      },
+      "labels": {}
+    },
+    "585526-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "585526-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "587683-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "587683-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "587708-8": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "587708-8.nii"
+        }
+      },
+      "labels": {}
+    },
+    "587739-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "587739-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "588303-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "588303-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "588775-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "588775-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "588912-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "588912-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "590262-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "590262-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "590642-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "590642-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "591144-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "591144-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "591444-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "591444-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "591529-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "591529-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "593558-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "593558-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "593613-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "593613-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "593625-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "593625-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "594492-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "594492-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "595176-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "595176-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "595279-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "595279-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "595740-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "595740-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "596077-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "596077-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "596970-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "596970-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "597509-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "597509-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "597514-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "597514-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "597547-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "597547-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "598322-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "598322-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "600136-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "600136-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "600139-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "600139-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "600142-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "600142-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "600582-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "600582-6.nii"
+        }
+      },
+      "labels": {}
+    },
+    "600771-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "600771-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "601065-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "601065-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "601122-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "601122-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "601363-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "601363-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "602331-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "602331-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "602341-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "602341-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "605630-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "605630-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "606059-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "606059-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "606936-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "606936-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "606960-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "606960-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "606988-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "606988-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "607514-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "607514-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "608173-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "608173-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "610597-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "610597-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "610677-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "610677-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "613253-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "613253-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "614613-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "614613-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "615220-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "615220-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "615440-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "615440-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "616156-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "616156-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "616731-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "616731-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "618174-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "618174-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "618362-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "618362-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "619109-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "619109-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "619118-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "619118-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "619143-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "619143-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "619855-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "619855-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "619863-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "619863-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "621974-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "621974-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "621986-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "621986-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "622040-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "622040-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "622688-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "622688-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "623884-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "623884-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "624751-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "624751-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "624797-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "624797-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "626139-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "626139-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "626422-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "626422-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "626645-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "626645-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "626657-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "626657-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "627639-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "627639-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "627649-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "627649-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "629160-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "629160-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "629729-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "629729-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "630135-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "630135-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "630633-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "630633-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "630664-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "630664-6.nii"
+        }
+      },
+      "labels": {}
+    },
+    "630685-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "630685-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "630694-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "630694-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "632579-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "632579-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "633387-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "633387-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "633759-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "633759-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "633927-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "633927-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "634187-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "634187-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "634511-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "634511-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "635516-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "635516-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "638165-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "638165-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "638190-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "638190-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "638231-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "638231-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "638534-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "638534-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "641111-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "641111-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "641156-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "641156-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "641768-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "641768-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "641907-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "641907-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "642414-9": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "642414-9.nii"
+        }
+      },
+      "labels": {}
+    },
+    "642940-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "642940-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "643623-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "643623-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "644191-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "644191-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "644883-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "644883-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "644982-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "644982-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "645117-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "645117-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "645849-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "645849-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "647723-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "647723-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "647779-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "647779-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "648536-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "648536-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "649208-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "649208-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "649280-8": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "649280-8.nii"
+        }
+      },
+      "labels": {}
+    },
+    "652255-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "652255-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "656270-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "656270-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "661531-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "661531-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "662323-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "662323-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "663898-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "663898-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "663927-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "663927-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "666063-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "666063-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "666261-8": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "666261-8.nii"
+        }
+      },
+      "labels": {}
+    },
+    "666927-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "666927-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "666931-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "666931-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "669290-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "669290-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "670444-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "670444-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "670486-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "670486-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "670591-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "670591-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "670898-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "670898-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "671254-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "671254-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "671274-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "671274-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "671572-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "671572-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "673486-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "673486-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "673588-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "673588-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "673647-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "673647-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "676034-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "676034-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "676105-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "676105-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "676111-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "676111-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "676592-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "676592-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "676612-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "676612-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "678613-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "678613-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "678660-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "678660-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "678671-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "678671-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "682580-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "682580-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "682602-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "682602-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "683028-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "683028-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "683028-8": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "683028-8.nii"
+        }
+      },
+      "labels": {}
+    },
+    "683478-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "683478-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "683991-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "683991-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "685814-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "685814-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "685842-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "685842-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "685860-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "685860-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "688218-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "688218-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "688808-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "688808-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "688833-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "688833-6.nii"
+        }
+      },
+      "labels": {}
+    },
+    "688838-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "688838-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "688886-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "688886-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "689147-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "689147-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "690314-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "690314-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "700481-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "700481-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "700785-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "700785-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "702580-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "702580-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "703073-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "703073-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "703130-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "703130-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "703798-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "703798-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "704348-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "704348-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "704469-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "704469-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "705080-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "705080-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "705114-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "705114-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "705138-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "705138-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "705666-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "705666-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "706967-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "706967-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "707171-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "707171-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "710314-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "710314-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "710395-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "710395-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "714569-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "714569-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "716903-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "716903-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "717337-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "717337-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "717994-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "717994-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "717996-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "717996-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "718030-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "718030-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "718175-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "718175-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "722177-9": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "722177-9.nii"
+        }
+      },
+      "labels": {}
+    },
+    "723427-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "723427-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "725464-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "725464-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "725506-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "725506-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "727832-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "727832-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "728433-9": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "728433-9.nii"
+        }
+      },
+      "labels": {}
+    },
+    "730378-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "730378-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "730431-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "730431-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "730439-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "730439-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "730451-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "730451-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "731748-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "731748-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "732220-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "732220-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "733146-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "733146-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "733178-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "733178-6.nii"
+        }
+      },
+      "labels": {}
+    },
+    "733198-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "733198-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "733220-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "733220-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "733786-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "733786-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "733828-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "733828-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "737151-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "737151-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "737155-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "737155-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "737223-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "737223-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "737279-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "737279-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "739006-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "739006-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "739458-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "739458-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "739469-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "739469-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "739683-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "739683-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "739740-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "739740-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "739867-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "739867-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "740062-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "740062-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "742102-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "742102-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "742110-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "742110-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "742136-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "742136-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "742140-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "742140-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "742863-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "742863-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "743503-7": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "743503-7.nii"
+        }
+      },
+      "labels": {}
+    },
+    "745206-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "745206-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "748033-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "748033-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "748489-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "748489-6.nii"
+        }
+      },
+      "labels": {}
+    },
+    "749555-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "749555-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "749611-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "749611-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "749859-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "749859-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "749920-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "749920-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "750313-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "750313-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "751087-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "751087-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "751529-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "751529-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "752201-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "752201-6.nii"
+        }
+      },
+      "labels": {}
+    },
+    "753060-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "753060-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "753175-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "753175-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "753546-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "753546-6.nii"
+        }
+      },
+      "labels": {}
+    },
+    "754063-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "754063-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "754074-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "754074-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "754081-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "754081-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "754414-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "754414-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "755231-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "755231-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "756618-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "756618-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "756622-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "756622-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "759404-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "759404-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "759420-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "759420-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "759955-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "759955-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "760062-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "760062-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "761207-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "761207-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "762092-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "762092-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "762151-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "762151-6.nii"
+        }
+      },
+      "labels": {}
+    },
+    "762215-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "762215-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "762582-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "762582-6.nii"
+        }
+      },
+      "labels": {}
+    },
+    "763294-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "763294-6.nii"
+        }
+      },
+      "labels": {}
+    },
+    "763299-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "763299-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "764536-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "764536-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "764603-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "764603-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "765512-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "765512-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "766154-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "766154-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "766193-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "766193-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "766315-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "766315-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "766889-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "766889-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "766928-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "766928-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "768351-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "768351-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "768362-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "768362-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "768443-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "768443-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "768954-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "768954-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "769061-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "769061-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "769102-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "769102-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "771150-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "771150-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "772543-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "772543-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "773936-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "773936-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "773950-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "773950-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "773978-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "773978-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "774012-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "774012-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "774080-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "774080-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "774371-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "774371-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "775307-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "775307-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "775451-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "775451-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "776202-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "776202-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "776592-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "776592-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "776645-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "776645-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "777091-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "777091-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "777830-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "777830-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "778445-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "778445-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "779006-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "779006-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "779507-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "779507-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "779575-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "779575-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "780129-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "780129-6.nii"
+        }
+      },
+      "labels": {}
+    },
+    "780859-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "780859-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "780871-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "780871-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "781686-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "781686-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "782329-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "782329-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "782432-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "782432-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "782831-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "782831-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "783758-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "783758-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "784261-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "784261-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "785256-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "785256-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "785277-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "785277-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "785283-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "785283-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "785645-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "785645-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "786061-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "786061-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "786518-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "786518-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "788123-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "788123-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "788573-7": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "788573-7.nii"
+        }
+      },
+      "labels": {}
+    },
+    "790498-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "790498-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "790941-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "790941-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "791130-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "791130-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "791491-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "791491-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "791552-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "791552-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "792881-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "792881-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "793887-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "793887-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "793894-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "793894-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "796281-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "796281-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "796904-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "796904-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "796909-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "796909-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "799297-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "799297-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "799309-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "799309-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "799331-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "799331-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "799848-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "799848-6.nii"
+        }
+      },
+      "labels": {}
+    },
+    "799918-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "799918-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "799963-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "799963-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "800042-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "800042-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "800047-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "800047-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "800663-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "800663-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "802346-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "802346-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "804892-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "804892-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "805533-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "805533-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "805593-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "805593-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "807255-7": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "807255-7.nii"
+        }
+      },
+      "labels": {}
+    },
+    "807444-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "807444-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "808414-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "808414-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "808420-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "808420-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "808452-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "808452-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "809032-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "809032-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "811641-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "811641-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "813960-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "813960-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "813983-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "813983-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "813989-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "813989-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "814006-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "814006-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "814313-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "814313-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "814634-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "814634-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747253183,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {}
+    },
+    "815949-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "815949-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "815981-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "815981-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "816937-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "816937-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "816960-8": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "816960-8.nii"
+        }
+      },
+      "labels": {}
+    },
+    "817106-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "817106-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "818787-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "818787-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "819861-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "819861-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "819869-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "819869-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "819924-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "819924-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "820094-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "820094-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "820295-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "820295-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "822166-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "822166-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "822233-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "822233-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "822268-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "822268-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "827588-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "827588-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "829360-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "829360-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "829819-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "829819-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "830332-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "830332-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "832419-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "832419-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "832423-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "832423-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "833353-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "833353-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "833354-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "833354-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "834905-15": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "834905-15.nii"
+        }
+      },
+      "labels": {}
+    },
+    "834905-20": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "834905-20.nii"
+        }
+      },
+      "labels": {}
+    },
+    "837349-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "837349-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "837404-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "837404-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "837781-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "837781-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "838219-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "838219-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "838439-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "838439-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "838952-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "838952-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "839006-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "839006-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "839015-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "839015-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "842580-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "842580-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "842584-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "842584-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "844204-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "844204-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "845068-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "845068-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "845090-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "845090-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "845188-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "845188-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "845357-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "845357-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "845391-9": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "845391-9.nii"
+        }
+      },
+      "labels": {}
+    },
+    "847797-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "847797-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "847907-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "847907-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "850556-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "850556-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "850595-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "850595-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "852918-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "852918-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "852956-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "852956-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "852996-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "852996-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "854579-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "854579-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "855548-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "855548-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "855943-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "855943-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "857262-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "857262-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "858148-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "858148-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "858166-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "858166-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "858210-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "858210-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "858216-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "858216-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "859300-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "859300-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "859575-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "859575-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "859614-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "859614-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "860327-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "860327-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "860375-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "860375-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "860395-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "860395-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "860535-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "860535-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "861053-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "861053-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "861054-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "861054-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "863119-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "863119-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "863127-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "863127-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "863175-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "863175-6.nii"
+        }
+      },
+      "labels": {}
+    },
+    "863191-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "863191-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "863205-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "863205-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "863216-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "863216-6.nii"
+        }
+      },
+      "labels": {}
+    },
+    "863380-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "863380-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "863474-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "863474-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "863766-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "863766-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "864453-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "864453-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "865914-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "865914-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "865989-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "865989-6.nii"
+        }
+      },
+      "labels": {}
+    },
+    "866308-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "866308-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "867362-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "867362-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "869584-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "869584-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "870978-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "870978-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "871117-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "871117-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "872088-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "872088-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "873477-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "873477-6.nii"
+        }
+      },
+      "labels": {}
+    },
+    "873527-8": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "873527-8.nii"
+        }
+      },
+      "labels": {}
+    },
+    "874480-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "874480-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "877360-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "877360-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "878496-8": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "878496-8.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747252532,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "spleen",
+                "idx": 2
+              },
+              {
+                "name": "right kidney",
+                "idx": 3
+              },
+              {
+                "name": "left kidney",
+                "idx": 4
+              },
+              {
+                "name": "liver",
+                "idx": 5
+              },
+              {
+                "name": "stomach",
+                "idx": 6
+              },
+              {
+                "name": "aorta",
+                "idx": 7
+              },
+              {
+                "name": "inferior vena cava",
+                "idx": 8
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747252571,
+            "name": "878496-8.nii.gz"
+          }
+        }
+      }
+    },
+    "878909-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "878909-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "879816-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "879816-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "879895-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "879895-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "879896-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "879896-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "882446-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "882446-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "882468-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "882468-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "883170-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "883170-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "884521-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "884521-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "885884-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "885884-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "885904-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "885904-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "886009-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "886009-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "886869-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "886869-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "887655-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "887655-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "887721-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "887721-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "888105-7": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "888105-7.nii"
+        }
+      },
+      "labels": {}
+    },
+    "888167-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "888167-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "888173-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "888173-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "888187-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "888187-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "891610-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "891610-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "891633-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "891633-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "891672-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "891672-6.nii"
+        }
+      },
+      "labels": {}
+    },
+    "891705-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "891705-6.nii"
+        }
+      },
+      "labels": {}
+    },
+    "891712-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "891712-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "891774-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "891774-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "891784-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "891784-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "891832-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "891832-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "893814-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "893814-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "893933-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "893933-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "895184-8": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "895184-8.nii"
+        }
+      },
+      "labels": {}
+    },
+    "895196-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "895196-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "895283-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "895283-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "895401-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "895401-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "895625-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "895625-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "896124-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "896124-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "896562-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "896562-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "896573-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "896573-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "896614-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "896614-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "899763-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "899763-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "899797-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "899797-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "900653-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "900653-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "901171-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "901171-6.nii"
+        }
+      },
+      "labels": {}
+    },
+    "902667-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "902667-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "903103-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "903103-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "903145-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "903145-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "903167-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "903167-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "905147-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "905147-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "905220-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "905220-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "905717-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "905717-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "907426-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "907426-6.nii"
+        }
+      },
+      "labels": {}
+    },
+    "907434-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "907434-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "907920-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "907920-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "907924-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "907924-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "907936-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "907936-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "907942-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "907942-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "913605-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "913605-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "913634-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "913634-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "913644-3": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "913644-3.nii"
+        }
+      },
+      "labels": {}
+    },
+    "913673-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "913673-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "913701-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "913701-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "915116-7": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "915116-7.nii"
+        }
+      },
+      "labels": {}
+    },
+    "915369-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "915369-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "915722-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "915722-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "916438-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "916438-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "916445-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "916445-6.nii"
+        }
+      },
+      "labels": {}
+    },
+    "917040-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "917040-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "917214-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "917214-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "917810-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "917810-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "919157-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "919157-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "919181-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "919181-6.nii"
+        }
+      },
+      "labels": {}
+    },
+    "919194-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "919194-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "919200-6": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "919200-6.nii"
+        }
+      },
+      "labels": {}
+    },
+    "919210-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "919210-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "919218-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "919218-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "919772-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "919772-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "919776-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "919776-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "919778-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "919778-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "919780-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "919780-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "919791-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "919791-5.nii"
+        }
+      },
+      "labels": {}
+    },
+    "919791-8": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "919791-8.nii"
+        }
+      },
+      "labels": {}
+    },
+    "919795-5": {
+      "image": {
+        "ext": ".nii",
+        "info": {
+          "ts": 1747214180,
+          "name": "919795-5.nii"
+        }
+      },
+      "labels": {}
+    }
+  }
+}
