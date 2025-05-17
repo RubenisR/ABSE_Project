@@ -32,7 +32,9 @@ logger = logging.getLogger(__name__)
 
 
 class DeepEdit(TaskConfig):
-    def init(self, name: str, model_dir: str, conf: Dict[str, str], planner: Any, **kwargs):
+    def init(
+        self, name: str, model_dir: str, conf: Dict[str, str], planner: Any, **kwargs
+    ):
         super().init(name, model_dir, conf, planner, **kwargs)
 
         self.epistemic_enabled = None
@@ -40,13 +42,8 @@ class DeepEdit(TaskConfig):
 
         # Multilabel
         self.labels = {
-            "spleen": 1,
-            "right kidney": 2,
-            "left kidney": 3,
-            "liver": 6,
-            "stomach": 7,
-            "aorta": 8,
-            "inferior vena cava": 9,
+            "tibia": 1,
+            "femur": 2,
             "background": 0,
         }
 
@@ -63,12 +60,14 @@ class DeepEdit(TaskConfig):
 
         # Model Files
         self.path = [
-            os.path.join(self.model_dir, f"pretrained_{self.name}_{network}.pt"),  # pretrained
+            os.path.join(
+                self.model_dir, f"pretrained_{self.name}_{network}.pt"
+            ),  # pretrained
             os.path.join(self.model_dir, f"{self.name}_{network}.pt"),  # published
         ]
 
         # Download PreTrained Model
-        if strtobool(self.conf.get("use_pretrained_model", "true")):
+        if strtobool(self.conf.get("use_pretrained_model", "false")):
             url = f"{self.conf.get('pretrained_path', self.PRE_TRAINED_PATH)}"
             url = f"{url}/radiology_deepedit_{network}_multilabel.pt"
             download_file(url, self.path[0])
@@ -138,7 +137,9 @@ class DeepEdit(TaskConfig):
         # Others
         self.epistemic_enabled = strtobool(conf.get("epistemic_enabled", "false"))
         self.epistemic_samples = int(conf.get("epistemic_samples", "5"))
-        logger.info(f"EPISTEMIC Enabled: {self.epistemic_enabled}; Samples: {self.epistemic_samples}")
+        logger.info(
+            f"EPISTEMIC Enabled: {self.epistemic_enabled}; Samples: {self.epistemic_samples}"
+        )
 
     def infer(self) -> Union[InferTask, Dict[str, InferTask]]:
         return {
@@ -149,7 +150,11 @@ class DeepEdit(TaskConfig):
                 preload=strtobool(self.conf.get("preload", "false")),
                 spatial_size=self.spatial_size,
                 target_spacing=self.target_spacing,
-                config={"cache_transforms": True, "cache_transforms_in_memory": True, "cache_transforms_ttl": 300},
+                config={
+                    "cache_transforms": True,
+                    "cache_transforms_in_memory": True,
+                    "cache_transforms_ttl": 300,
+                },
             ),
             f"{self.name}_seg": lib.infers.DeepEdit(
                 path=self.path,
@@ -164,7 +169,9 @@ class DeepEdit(TaskConfig):
         }
 
     def trainer(self) -> Optional[TrainTask]:
-        output_dir = os.path.join(self.model_dir, f"{self.name}_" + self.conf.get("network", "dynunet"))
+        output_dir = os.path.join(
+            self.model_dir, f"{self.name}_" + self.conf.get("network", "dynunet")
+        )
         load_path = self.path[0] if os.path.exists(self.path[0]) else self.path[1]
 
         task: TrainTask = lib.trainers.DeepEdit(
@@ -175,7 +182,9 @@ class DeepEdit(TaskConfig):
             spatial_size=self.spatial_size,
             target_spacing=self.target_spacing,
             number_intensity_ch=self.number_intensity_ch,
-            config={"pretrained": strtobool(self.conf.get("use_pretrained_model", "true"))},
+            config={
+                "pretrained": strtobool(self.conf.get("use_pretrained_model", "true"))
+            },
             labels=self.labels,
             debug_mode=False,
             find_unused_parameters=True,

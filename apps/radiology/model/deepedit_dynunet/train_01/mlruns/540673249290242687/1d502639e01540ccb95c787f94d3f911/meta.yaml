@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Github/ABSE_Project/apps/radiology/model/deepedit_dynunet/train_01/mlruns/540673249290242687/1d502639e01540ccb95c787f94d3f911/artifacts
+end_time: 1747475484965
+entry_point_name: ''
+experiment_id: '540673249290242687'
+lifecycle_stage: active
+run_id: 1d502639e01540ccb95c787f94d3f911
+run_name: run_20250517_114848
+run_uuid: 1d502639e01540ccb95c787f94d3f911
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747475470040
+status: 3
+tags: []
+user_id: unknown
