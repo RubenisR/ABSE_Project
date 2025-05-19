@@ -45,7 +45,6 @@ class DeepEdit(TaskConfig):
             "Tibia": 1,
             "Femur": 2,
             "PCL": 3,
-            "ACL": 4,
             "background": 0,
         }
 
