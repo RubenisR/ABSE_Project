@@ -42,8 +42,10 @@ class DeepEdit(TaskConfig):
 
         # Multilabel
         self.labels = {
-            "tibia": 1,
-            "femur": 2,
+            "Tibia": 1,
+            "Femur": 2,
+            "PCL": 3,
+            "ACL": 4,
             "background": 0,
         }
 
