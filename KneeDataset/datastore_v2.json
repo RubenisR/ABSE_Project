@@ -49,7 +49,13 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "412857-8.nii"
+          "name": "412857-8.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747675165,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
       "labels": {}
@@ -59,20 +65,78 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "412865-8.nii"
+          "name": "412865-8.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747834289,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747834370,
+            "name": "412865-8.nii.gz"
+          }
+        }
+      }
     },
     "415102-9": {
       "image": {
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "415102-9.nii"
+          "name": "415102-9.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747834506,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747834548,
+            "name": "415102-9.nii.gz"
+          }
+        }
+      }
     },
     "425707-8": {
       "image": {
@@ -89,10 +153,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "425713-8.nii"
+          "name": "425713-8.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747834130,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747834208,
+            "name": "425713-8.nii.gz"
+          }
+        }
+      }
     },
     "437474-8": {
       "image": {
@@ -215,20 +308,78 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "457572-6.nii"
+          "name": "457572-6.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747829603,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747829659,
+            "name": "457572-6.nii.gz"
+          }
+        }
+      }
     },
     "459462-10": {
       "image": {
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "459462-10.nii"
+          "name": "459462-10.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747838133,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747838719,
+            "name": "459462-10.nii.gz"
+          }
+        }
+      }
     },
     "459569-9": {
       "image": {
@@ -335,20 +486,78 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "472130-8.nii"
+          "name": "472130-8.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747837191,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747837359,
+            "name": "472130-8.nii.gz"
+          }
+        }
+      }
     },
     "472842-8": {
       "image": {
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "472842-8.nii"
+          "name": "472842-8.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747840959,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747841038,
+            "name": "472842-8.nii.gz"
+          }
+        }
+      }
     },
     "473438-7": {
       "image": {
@@ -515,10 +724,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "481331-7.nii"
+          "name": "481331-7.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747823979,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747824160,
+            "name": "481331-7.nii.gz"
+          }
+        }
+      }
     },
     "481371-7": {
       "image": {
@@ -755,10 +993,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "491177-5.nii"
+          "name": "491177-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747676831,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747677171,
+            "name": "491177-5.nii.gz"
+          }
+        }
+      }
     },
     "491387-5": {
       "image": {
@@ -795,10 +1062,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "492792-5.nii"
+          "name": "492792-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747833773,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747833859,
+            "name": "492792-5.nii.gz"
+          }
+        }
+      }
     },
     "494291-5": {
       "image": {
@@ -895,10 +1191,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "497764-5.nii"
+          "name": "497764-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747837718,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747837810,
+            "name": "497764-5.nii.gz"
+          }
+        }
+      }
     },
     "498724-5": {
       "image": {
@@ -915,10 +1240,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "500142-6.nii"
+          "name": "500142-6.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747838727,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747838957,
+            "name": "500142-6.nii.gz"
+          }
+        }
+      }
     },
     "500636-5": {
       "image": {
@@ -975,10 +1329,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "502904-5.nii"
+          "name": "502904-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747684383,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747684718,
+            "name": "502904-5.nii.gz"
+          }
+        }
+      }
     },
     "502951-5": {
       "image": {
@@ -1005,7 +1388,13 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "504699-5.nii"
+          "name": "504699-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747680504,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
       "labels": {}
@@ -1165,7 +1554,13 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "515707-7.nii"
+          "name": "515707-7.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747680904,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
       "labels": {}
@@ -1355,7 +1750,13 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "528796-5.nii"
+          "name": "528796-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747675424,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
       "labels": {}
@@ -1365,20 +1766,78 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "528814-5.nii"
+          "name": "528814-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747836101,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747836185,
+            "name": "528814-5.nii.gz"
+          }
+        }
+      }
     },
     "528860-5": {
       "image": {
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "528860-5.nii"
+          "name": "528860-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747680069,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747680311,
+            "name": "528860-5.nii.gz"
+          }
+        }
+      }
     },
     "531241-5": {
       "image": {
@@ -1425,10 +1884,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "533741-5.nii"
+          "name": "533741-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747829228,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747829315,
+            "name": "533741-5.nii.gz"
+          }
+        }
+      }
     },
     "533809-5": {
       "image": {
@@ -1445,10 +1933,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "536367-5.nii"
+          "name": "536367-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747837367,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747837522,
+            "name": "536367-5.nii.gz"
+          }
+        }
+      }
     },
     "538076-5": {
       "image": {
@@ -1475,7 +1992,13 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "540462-5.nii"
+          "name": "540462-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747856934,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
       "labels": {}
@@ -1495,7 +2018,13 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "540525-5.nii"
+          "name": "540525-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747676102,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
       "labels": {}
@@ -1605,7 +2134,13 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "547450-5.nii"
+          "name": "547450-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747841332,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
       "labels": {}
@@ -1665,10 +2200,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "549897-5.nii"
+          "name": "549897-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747837101,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747837183,
+            "name": "549897-5.nii.gz"
+          }
+        }
+      }
     },
     "549957-6": {
       "image": {
@@ -1765,10 +2329,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "555031-5.nii"
+          "name": "555031-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747684975,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747685344,
+            "name": "555031-5.nii.gz"
+          }
+        }
+      }
     },
     "557202-5": {
       "image": {
@@ -1965,10 +2558,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "563422-5.nii"
+          "name": "563422-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747679506,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747679756,
+            "name": "563422-5.nii.gz"
+          }
+        }
+      }
     },
     "563429-5": {
       "image": {
@@ -2005,10 +2627,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "564317-5.nii"
+          "name": "564317-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747834085,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747834121,
+            "name": "564317-5.nii.gz"
+          }
+        }
+      }
     },
     "566015-5": {
       "image": {
@@ -2025,7 +2676,13 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "566022-5.nii"
+          "name": "566022-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747685354,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
       "labels": {}
@@ -2075,10 +2732,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "566236-5.nii"
+          "name": "566236-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747829008,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747829078,
+            "name": "566236-5.nii.gz"
+          }
+        }
+      }
     },
     "567480-8": {
       "image": {
@@ -2125,7 +2811,13 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "568937-5.nii"
+          "name": "568937-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747833014,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
       "labels": {}
@@ -2185,20 +2877,78 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "571778-5.nii"
+          "name": "571778-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747679912,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747680062,
+            "name": "571778-5.nii.gz"
+          }
+        }
+      }
     },
     "572059-5": {
       "image": {
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "572059-5.nii"
+          "name": "572059-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747829522,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747829585,
+            "name": "572059-5.nii.gz"
+          }
+        }
+      }
     },
     "572093-5": {
       "image": {
@@ -2225,10 +2975,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "574851-5.nii"
+          "name": "574851-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747680978,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747681297,
+            "name": "574851-5.nii.gz"
+          }
+        }
+      }
     },
     "576971-5": {
       "image": {
@@ -2245,7 +3024,13 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "579840-5.nii"
+          "name": "579840-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747678096,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
       "labels": {}
@@ -2295,10 +3080,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "580637-5.nii"
+          "name": "580637-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747836901,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747837094,
+            "name": "580637-5.nii.gz"
+          }
+        }
+      }
     },
     "580637-6": {
       "image": {
@@ -2335,7 +3149,13 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "582708-5.nii"
+          "name": "582708-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747850261,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
       "labels": {}
@@ -2415,10 +3235,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "584216-9.nii"
+          "name": "584216-9.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747825400,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747826592,
+            "name": "584216-9.nii.gz"
+          }
+        }
+      }
     },
     "584916-6": {
       "image": {
@@ -2545,7 +3394,13 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "591529-5.nii"
+          "name": "591529-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747675151,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
       "labels": {}
@@ -2615,10 +3470,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "595740-5.nii"
+          "name": "595740-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747837978,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747838120,
+            "name": "595740-5.nii.gz"
+          }
+        }
+      }
     },
     "596077-5": {
       "image": {
@@ -2665,10 +3549,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "597547-5.nii"
+          "name": "597547-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747678123,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747678448,
+            "name": "597547-5.nii.gz"
+          }
+        }
+      }
     },
     "598322-5": {
       "image": {
@@ -2785,10 +3698,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "605630-5.nii"
+          "name": "605630-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747833922,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747834026,
+            "name": "605630-5.nii.gz"
+          }
+        }
+      }
     },
     "606059-5": {
       "image": {
@@ -2805,10 +3747,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "606936-5.nii"
+          "name": "606936-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747839136,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747839343,
+            "name": "606936-5.nii.gz"
+          }
+        }
+      }
     },
     "606960-5": {
       "image": {
@@ -2835,10 +3806,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "607514-5.nii"
+          "name": "607514-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747834215,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747834283,
+            "name": "607514-5.nii.gz"
+          }
+        }
+      }
     },
     "608173-5": {
       "image": {
@@ -2965,10 +3965,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "619118-5.nii"
+          "name": "619118-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747840756,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747840948,
+            "name": "619118-5.nii.gz"
+          }
+        }
+      }
     },
     "619143-5": {
       "image": {
@@ -3065,10 +4094,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "624797-5.nii"
+          "name": "624797-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747677182,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747678110,
+            "name": "624797-5.nii.gz"
+          }
+        }
+      }
     },
     "626139-5": {
       "image": {
@@ -3105,10 +4163,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "626657-5.nii"
+          "name": "626657-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747838999,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747839129,
+            "name": "626657-5.nii.gz"
+          }
+        }
+      }
     },
     "627639-5": {
       "image": {
@@ -3145,30 +4232,117 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "629729-5.nii"
+          "name": "629729-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747839497,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747840395,
+            "name": "629729-5.nii.gz"
+          }
+        }
+      }
     },
     "630135-5": {
       "image": {
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "630135-5.nii"
+          "name": "630135-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747834848,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747835114,
+            "name": "630135-5.nii.gz"
+          }
+        }
+      }
     },
     "630633-5": {
       "image": {
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "630633-5.nii"
+          "name": "630633-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747683992,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747684367,
+            "name": "630633-5.nii.gz"
+          }
+        }
+      }
     },
     "630664-6": {
       "image": {
@@ -3205,10 +4379,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "632579-5.nii"
+          "name": "632579-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747834378,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747834442,
+            "name": "632579-5.nii.gz"
+          }
+        }
+      }
     },
     "633387-5": {
       "image": {
@@ -3265,7 +4468,13 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "635516-5.nii"
+          "name": "635516-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747675030,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
       "labels": {}
@@ -3275,20 +4484,78 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "638165-5.nii"
+          "name": "638165-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747682242,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747682444,
+            "name": "638165-5.nii.gz"
+          }
+        }
+      }
     },
     "638190-5": {
       "image": {
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "638190-5.nii"
+          "name": "638190-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747829422,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747829514,
+            "name": "638190-5.nii.gz"
+          }
+        }
+      }
     },
     "638231-5": {
       "image": {
@@ -3445,10 +4712,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "647779-5.nii"
+          "name": "647779-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747835520,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747836035,
+            "name": "647779-5.nii.gz"
+          }
+        }
+      }
     },
     "648536-5": {
       "image": {
@@ -3615,7 +4911,13 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "670591-5.nii"
+          "name": "670591-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747681994,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
       "labels": {}
@@ -3675,10 +4977,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "673588-5.nii"
+          "name": "673588-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747834606,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747834746,
+            "name": "673588-5.nii.gz"
+          }
+        }
+      }
     },
     "673647-5": {
       "image": {
@@ -3725,10 +5056,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "676592-5.nii"
+          "name": "676592-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747833866,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747833914,
+            "name": "676592-5.nii.gz"
+          }
+        }
+      }
     },
     "676612-5": {
       "image": {
@@ -4095,10 +5455,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "714569-5.nii"
+          "name": "714569-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747676909,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747677319,
+            "name": "714569-5.nii.gz"
+          }
+        }
+      }
     },
     "716903-5": {
       "image": {
@@ -4155,10 +5544,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "718175-5.nii"
+          "name": "718175-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747683722,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747683977,
+            "name": "718175-5.nii.gz"
+          }
+        }
+      }
     },
     "722177-9": {
       "image": {
@@ -4325,7 +5743,13 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "733786-5.nii"
+          "name": "733786-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747685820,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
       "labels": {}
@@ -4485,20 +5909,78 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "742140-5.nii"
+          "name": "742140-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747815407,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747815581,
+            "name": "742140-5.nii.gz"
+          }
+        }
+      }
     },
     "742863-5": {
       "image": {
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "742863-5.nii"
+          "name": "742863-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747683323,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747683703,
+            "name": "742863-5.nii.gz"
+          }
+        }
+      }
     },
     "743503-7": {
       "image": {
@@ -4635,20 +6117,78 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "753175-5.nii"
+          "name": "753175-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747839354,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747839488,
+            "name": "753175-5.nii.gz"
+          }
+        }
+      }
     },
     "753546-6": {
       "image": {
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "753546-6.nii"
+          "name": "753546-6.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747817695,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747817916,
+            "name": "753546-6.nii.gz"
+          }
+        }
+      }
     },
     "754063-5": {
       "image": {
@@ -4695,10 +6235,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "755231-5.nii"
+          "name": "755231-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747834033,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747834078,
+            "name": "755231-5.nii.gz"
+          }
+        }
+      }
     },
     "756618-5": {
       "image": {
@@ -4815,10 +6384,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "763294-6.nii"
+          "name": "763294-6.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747835123,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747835513,
+            "name": "763294-6.nii.gz"
+          }
+        }
+      }
     },
     "763299-5": {
       "image": {
@@ -4895,10 +6493,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "766889-5.nii"
+          "name": "766889-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747837816,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747837967,
+            "name": "766889-5.nii.gz"
+          }
+        }
+      }
     },
     "766928-5": {
       "image": {
@@ -4945,10 +6572,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "768954-5.nii"
+          "name": "768954-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747824169,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747824832,
+            "name": "768954-5.nii.gz"
+          }
+        }
+      }
     },
     "769061-5": {
       "image": {
@@ -4965,10 +6621,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "769102-5.nii"
+          "name": "769102-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747676232,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747676902,
+            "name": "769102-5.nii.gz"
+          }
+        }
+      }
     },
     "771150-5": {
       "image": {
@@ -5055,7 +6740,13 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "775307-5.nii"
+          "name": "775307-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747815588,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
       "labels": {}
@@ -5135,10 +6826,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "779006-5.nii"
+          "name": "779006-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747824843,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747825388,
+            "name": "779006-5.nii.gz"
+          }
+        }
+      }
     },
     "779507-5": {
       "image": {
@@ -5275,10 +6995,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "785283-5.nii"
+          "name": "785283-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747833723,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747833766,
+            "name": "785283-5.nii.gz"
+          }
+        }
+      }
     },
     "785645-5": {
       "image": {
@@ -5325,10 +7074,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "788573-7.nii"
+          "name": "788573-7.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747685610,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747685807,
+            "name": "788573-7.nii.gz"
+          }
+        }
+      }
     },
     "790498-5": {
       "image": {
@@ -5555,7 +7333,13 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "805533-5.nii"
+          "name": "805533-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747675588,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
       "labels": {}
@@ -5645,10 +7429,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "813960-5.nii"
+          "name": "813960-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747684730,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747684964,
+            "name": "813960-5.nii.gz"
+          }
+        }
+      }
     },
     "813983-5": {
       "image": {
@@ -5695,10 +7508,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "814634-5.nii"
+          "name": "814634-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747833321,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747833715,
+            "name": "814634-5.nii.gz"
+          }
+        }
+      }
     },
     "815949-5": {
       "image": {
@@ -5744,34 +7586,7 @@
           }
         }
       },
-      "labels": {
-        "final": {
-          "ext": ".nii.gz",
-          "info": {
-            "label_info": [
-              {
-                "name": "Tibia",
-                "idx": 2
-              },
-              {
-                "name": "Femur",
-                "idx": 3
-              },
-              {
-                "name": "PCL",
-                "idx": 4
-              },
-              {
-                "name": "ACL",
-                "idx": 5
-              }
-            ],
-            "client_id": "user-xyz",
-            "ts": 1747647197,
-            "name": "816960-8.nii.gz"
-          }
-        }
-      }
+      "labels": {}
     },
     "817106-5": {
       "image": {
@@ -5838,7 +7653,13 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "820295-5.nii"
+          "name": "820295-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747666764,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
       "labels": {}
@@ -5878,10 +7699,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "827588-5.nii"
+          "name": "827588-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747834557,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747834598,
+            "name": "827588-5.nii.gz"
+          }
+        }
+      }
     },
     "829360-5": {
       "image": {
@@ -5898,10 +7748,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "829819-5.nii"
+          "name": "829819-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747680325,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747680494,
+            "name": "829819-5.nii.gz"
+          }
+        }
+      }
     },
     "830332-5": {
       "image": {
@@ -5938,10 +7817,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "833353-5.nii"
+          "name": "833353-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747834450,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747834499,
+            "name": "833353-5.nii.gz"
+          }
+        }
+      }
     },
     "833354-5": {
       "image": {
@@ -5978,10 +7886,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "837349-5.nii"
+          "name": "837349-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747681324,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747683311,
+            "name": "837349-5.nii.gz"
+          }
+        }
+      }
     },
     "837404-5": {
       "image": {
@@ -6058,7 +7995,13 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "842580-5.nii"
+          "name": "842580-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747840404,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
       "labels": {}
@@ -6128,10 +8071,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "845391-9.nii"
+          "name": "845391-9.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747675883,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747676814,
+            "name": "845391-9.nii.gz"
+          }
+        }
+      }
     },
     "847797-5": {
       "image": {
@@ -6158,10 +8130,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "850556-5.nii"
+          "name": "850556-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747678457,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747679497,
+            "name": "850556-5.nii.gz"
+          }
+        }
+      }
     },
     "850595-5": {
       "image": {
@@ -6188,7 +8189,13 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "852956-5.nii"
+          "name": "852956-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747816497,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
       "labels": {}
@@ -6238,10 +8245,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "857262-5.nii"
+          "name": "857262-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747834752,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747834838,
+            "name": "857262-5.nii.gz"
+          }
+        }
+      }
     },
     "858148-5": {
       "image": {
@@ -6298,10 +8334,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "859575-5.nii"
+          "name": "859575-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747841047,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747841219,
+            "name": "859575-5.nii.gz"
+          }
+        }
+      }
     },
     "859614-5": {
       "image": {
@@ -6328,10 +8393,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "860375-5.nii"
+          "name": "860375-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747829325,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747829414,
+            "name": "860375-5.nii.gz"
+          }
+        }
+      }
     },
     "860395-5": {
       "image": {
@@ -6508,7 +8602,13 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "867362-5.nii"
+          "name": "867362-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747817604,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
       "labels": {}
@@ -6728,10 +8828,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "887655-5.nii"
+          "name": "887655-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747829086,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747829219,
+            "name": "887655-5.nii.gz"
+          }
+        }
+      }
     },
     "887721-5": {
       "image": {
@@ -6778,10 +8907,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "888187-5.nii"
+          "name": "888187-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747677394,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747677615,
+            "name": "888187-5.nii.gz"
+          }
+        }
+      }
     },
     "891610-5": {
       "image": {
@@ -6808,7 +8966,13 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "891672-6.nii"
+          "name": "891672-6.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747683772,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
       "labels": {}
@@ -6958,10 +9122,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "896573-5.nii"
+          "name": "896573-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747828820,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747828898,
+            "name": "896573-5.nii.gz"
+          }
+        }
+      }
     },
     "896614-5": {
       "image": {
@@ -7048,10 +9241,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "903167-5.nii"
+          "name": "903167-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747837532,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747837709,
+            "name": "903167-5.nii.gz"
+          }
+        }
+      }
     },
     "905147-5": {
       "image": {
@@ -7078,10 +9300,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "905717-5.nii"
+          "name": "905717-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747828906,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747829000,
+            "name": "905717-5.nii.gz"
+          }
+        }
+      }
     },
     "907426-6": {
       "image": {
@@ -7128,20 +9379,78 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "907936-5.nii"
+          "name": "907936-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747679767,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747679903,
+            "name": "907936-5.nii.gz"
+          }
+        }
+      }
     },
     "907942-5": {
       "image": {
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "907942-5.nii"
+          "name": "907942-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747836043,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747836094,
+            "name": "907942-5.nii.gz"
+          }
+        }
+      }
     },
     "913605-5": {
       "image": {
@@ -7258,10 +9567,39 @@
         "ext": ".nii",
         "info": {
           "ts": 1747646417,
-          "name": "917214-5.nii"
+          "name": "917214-5.nii",
+          "strategy": {
+            "random": {
+              "ts": 1747836192,
+              "client_id": "user-xyz"
+            }
+          }
         }
       },
-      "labels": {}
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "Tibia",
+                "idx": 2
+              },
+              {
+                "name": "Femur",
+                "idx": 3
+              },
+              {
+                "name": "PCL",
+                "idx": 4
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1747836895,
+            "name": "917214-5.nii.gz"
+          }
+        }
+      }
     },
     "917810-5": {
       "image": {

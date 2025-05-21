@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Github/ABSE_Project/apps/radiology/model/deepedit_dynunet/KneeuralNet/mlruns/217582123192155531/a6e3bb46340149848e62c689da49f5a0/artifacts
+end_time: 1747851910162
+entry_point_name: ''
+experiment_id: '217582123192155531'
+lifecycle_stage: active
+run_id: a6e3bb46340149848e62c689da49f5a0
+run_name: run_20250521_200010
+run_uuid: a6e3bb46340149848e62c689da49f5a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747851885262
+status: 3
+tags: []
+user_id: unknown
