@@ -4,3 +4,4 @@ apps/radiology/model/pretrained_deepedit_dynunet.pt
 apps/radiology/model/sam2_hiera_large.pt
 .venv
 __pycache__
+*.pt
